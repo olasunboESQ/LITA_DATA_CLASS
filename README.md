@@ -59,9 +59,16 @@ This process involves the following:
 
 ### Data Visualization
 ---
+Here is where i show case how i can create tables or add images and pie/bar charts to my project
+
 |CustomerName|Month|Prices|
 |------------|-----|------|
 |Olasunbo|May|300,000|
+|Olayinka|June|200,000|
+|Olaitan|June|100,000|
+|Olasunkanmi|July|50,000|
+
+
 
 ![IMG_20241005_142209_164@-1465639882](https://github.com/user-attachments/assets/fc5a273a-23cc-4f59-bdeb-22387f7ac79c)
 
@@ -70,7 +77,7 @@ This process involves the following:
 
 
 
- #### DAta Analysis
+ #### Data Analysis
   ---
   This is where I learnt how to write and run basic lines of code or queries and some Data Analysis Expression;
 
