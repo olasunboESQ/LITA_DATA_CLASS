@@ -41,11 +41,32 @@ This project is to explain my Data Analysis journey with LITA, starting from EXC
    -  Which product are top sellers
    -  Which Yaer has the most sales?
 
-    #### DAta Analysis
+### Data Visualization
+---
+|CustomerName|Month|Prices|
+|------------|-----|------|
+|Olasunbo|May|300,000|
+
+![IMG_20241005_142209_164@-1465639882](https://github.com/user-attachments/assets/fc5a273a-23cc-4f59-bdeb-22387f7ac79c)
+
+![image](https://github.com/user-attachments/assets/231277a0-0a6f-40f0-a1ac-bdf4a4c28fc1)
+
+
+
+
+ #### DAta Analysis
   ---
   This is where I learnt how to write and run basic lines of code or queries and some Data Analysis Expression;
 
- ```SQL
-select * from customers
- where customerid = Ab212 
+```SQL
+select * from Customers
+where customername = Olasunbo
+
+
+
     
+
+
+
+
+
