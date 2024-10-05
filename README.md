@@ -1,6 +1,6 @@
 # LITA_DATA_CLASS
 
-## Poject Title: Data Analysis Process
+## Project Title: Data Analysis Process
 
 [Project Overview](#project-overview)
 
