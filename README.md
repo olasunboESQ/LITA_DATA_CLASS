@@ -22,6 +22,8 @@ This project is to explain my Data Analysis journey with LITA, starting from EXC
 
 ### Data Analysis Process
 ---
+This process involves the following:
+
 - Identifying and Questioning
 - Data Gathering
 - Data Cleaning
@@ -35,7 +37,7 @@ This project is to explain my Data Analysis journey with LITA, starting from EXC
     3.  For Data Visualization
   - SQL - Structured Query Language for Quering of Data
   - Github for Portfolio Building
-  - POWERBI for Data Visualization [ Download Here](hhttps://www.miccrosoft.com)
+  - POWERBI for Data Visualization [ Download Here](https://www.miccrosoft.com)
 
     ### Data Cleaning and Preparations
     ---
@@ -52,8 +54,8 @@ This project is to explain my Data Analysis journey with LITA, starting from EXC
     This involves the exploration of the Data to answer some questions about the Data such as :
 
    -  Which Branch of the company is selling the most product
-=   -  Which product are top sellers
-   -  Which Yaer has the most sales?
+   -  Which product are top sellers
+   -  Which Year has the most sales?
 
 ### Data Visualization
 ---
