@@ -2,6 +2,20 @@
 
 ## Poject Title: Data Analysis Process
 
+[Project Overview](#project-overview)
+
+[Data Analysis Process](#data-analysis-process)
+
+[Data Analysis Tools](#data-analysis-tools)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Data Analysis](#data-analysis)
+
 ### Project Overview
 ---
 This project is to explain my Data Analysis journey with LITA, starting from EXCEL Class with Mushin Hammed to SQL Class with Femi Adebayo and to POWERBI Class with Temidayo Teedee. 
@@ -38,7 +52,7 @@ This project is to explain my Data Analysis journey with LITA, starting from EXC
     This involves the exploration of the Data to answer some questions about the Data such as :
 
    -  Which Branch of the company is selling the most product
-   -  Which product are top sellers
+=   -  Which product are top sellers
    -  Which Yaer has the most sales?
 
 ### Data Visualization
